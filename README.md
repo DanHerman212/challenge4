@@ -33,7 +33,7 @@ risk-management metrics: the daily returns, standard deviations, Sharpe ratios, 
 The source data includes closing prices over 5 years (2015 - 2020), for 4 funds and the S&P 500 index.
 
 
-![Sample Report](images/sample.png)
+![Sample Report](images/1title.png)
 
 
 
